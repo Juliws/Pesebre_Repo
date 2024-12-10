@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b4b68445bccaf4646bb3cf8602a0ad54
+timeCreated: 1499346778
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 90589
+  packageName: Professional Music Player
+  packageVersion: 1.0
+  assetPath: Assets/MusicPlayer/material/spectrum.mat
+  uploadId: 189491

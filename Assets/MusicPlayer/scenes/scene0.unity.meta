@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7517520e80d1ec947a6cafa6656b885f
+timeCreated: 1493558897
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 90589
+  packageName: Professional Music Player
+  packageVersion: 1.0
+  assetPath: Assets/MusicPlayer/scenes/scene0.unity
+  uploadId: 189491
